@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Welcome to My Profile!
 
 I'm Muhammad Syahiran Bin Hanafi, a passionate software developer with a knack for Programming. I thrive on building scalable applications and learning new technologies.
 
